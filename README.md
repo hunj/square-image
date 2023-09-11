@@ -1,4 +1,4 @@
-# square-imagehttps://github.com/hunj/square-image/tree/main
+# square-image
 adds a blurry background to fit a portrait-size image into a square. appends `_edit` at the end of the file name.
 
 # requirements
